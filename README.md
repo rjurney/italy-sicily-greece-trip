@@ -1,2 +1,4 @@
 # italy-sicily-greece-trip
-Web app displaying information about my trip to Italy, Sicily and Greece
+
+This repository contains a web application displaying information about my trip to Italy, Sicily and Greece.
+
