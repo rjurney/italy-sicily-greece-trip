@@ -256,3 +256,16 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+.justify {
+  text-align: justify;
+}
+
+.left {
+  text-align: left;
+}
+
+.no_margin {
+  margin: 0px;
+  padding: 0px;
+}
